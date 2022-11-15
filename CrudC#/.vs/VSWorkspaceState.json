@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcCrud",
+    "\\MvcCrud\\MvcCrud",
+    "\\MvcCrud\\MvcCrud\\MVCCRUD",
+    "\\MvcCrud\\MvcCrud\\MVCCRUD\\MVCCRUD",
+    "\\MvcCrud\\MvcCrud\\MVCCRUD\\MVCCRUD\\Views",
+    "\\MvcCrud\\MvcCrud\\MVCCRUD\\MVCCRUD\\Views\\Usuarios"
+  ],
+  "SelectedNode": "\\MvcCrud\\MvcCrud\\MVCCRUD\\MVCCRUD\\Views\\Usuarios\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

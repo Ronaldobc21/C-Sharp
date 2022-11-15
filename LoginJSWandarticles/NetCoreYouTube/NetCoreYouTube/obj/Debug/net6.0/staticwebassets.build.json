@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I90B3CofPY0iZlojCfxxl8Kcprv+YVuVWvBziIlDJEQ=",
+  "Source": "NetCoreYouTube",
+  "BasePath": "_content/NetCoreYouTube",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
